@@ -12,9 +12,9 @@ public class AutoMail {
         String to = "arjun@arabyads.com";
 
         // Sender's email ID
-        String from = "arjunjabong@gmail.com";
-        final String username = "arjunjabong@gmail.com"; // your Gmail username
-        final String appPassword = "bspokbixuvccnfof"; // your Gmail app password
+        String from = "abc@gmail.com";
+        final String username = "xyz@gmail.com"; // your Gmail username
+        final String appPassword = "abcdefghijklmno"; // your Gmail app password
 
         // Assuming you are sending email through Gmail SMTP server
         String host = "smtp.gmail.com";
