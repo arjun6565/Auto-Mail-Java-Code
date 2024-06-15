@@ -9,7 +9,7 @@ public class AutoMail {
 
     public static void main(String[] args) {
         // Recipient's email ID
-        String to = "arjun@arabyads.com";
+        String to = "ggi@arabyads.com";
 
         // Sender's email ID
         String from = "abc@gmail.com";
